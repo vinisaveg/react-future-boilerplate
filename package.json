@@ -1,0 +1,33 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A 2021 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snowpack and more...",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@snowpack/plugin-sass": "^1.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2",
+    "snowpack": "^3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinisaveg/react-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "vinisaveg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinisaveg/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vinisaveg/react-boilerplate#readme"
+}

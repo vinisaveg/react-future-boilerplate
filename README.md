@@ -1,13 +1,12 @@
 ## react-boilerplate
 
-A 2021 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snowpack and more...
+A 2021 Reactjs boilerplate, bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
 
 ### Techs :computer:
 
 - [`ReactJS`](https://pt-br.reactjs.org)
 - [`Typescript`](https://www.typescriptlang.org)
 - [`sass`](https://sass-lang.com)
-- [`axios`](https://axios-http.com)
 
 ### Testing :heavy_check_mark:
 
@@ -22,5 +21,29 @@ A 2021 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snow
 ```
 
     git clone https://github.com/vinisaveg/react-boilerplate.git
+
+```
+
+- Install all dependencies
+
+```
+
+    yarn install
+
+```
+
+- Running the app in **development** mode
+
+```
+
+    yarn dev
+
+```
+
+- Preparing the app **build**
+
+```
+
+    yarn build
 
 ```
