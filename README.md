@@ -47,3 +47,13 @@ A 2021 Reactjs boilerplate, bundled with Snowpack, featuring Typescript, CSS mod
     yarn build
 
 ```
+
+### Testing :rotating_light:
+
+- Run the unit tests
+
+```
+
+    yarn test
+
+```
