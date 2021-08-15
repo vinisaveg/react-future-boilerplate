@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { FunctionComponent } from 'react'
 
 import './app.scss'
 
-const App = () => {
+const App: FunctionComponent = () => {
   return <div className="app">Hello world!</div>
 }
 
