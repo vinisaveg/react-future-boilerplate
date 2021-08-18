@@ -57,3 +57,11 @@ A 2021 Reactjs boilerplate, bundled with Snowpack, featuring Typescript, CSS mod
     yarn test
 
 ```
+
+- Run the end-to-end tests
+
+```
+
+    yarn test:cypress
+
+```
