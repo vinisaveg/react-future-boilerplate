@@ -7,6 +7,7 @@
     "dev": "snowpack dev",
     "build": "snowpack build",
     "test": "jest",
+    "test:cypress": "cypress open",
     "prepare": "husky install"
   },
   "dependencies": {
@@ -24,6 +25,7 @@
     "@types/jest": "^27.0.0",
     "@types/react": "^17.0.16",
     "@types/react-dom": "^17.0.9",
+    "cypress": "^8.3.0",
     "eslint": "^7.32.0",
     "eslint-plugin-react": "^7.24.0",
     "husky": "^7.0.1",
