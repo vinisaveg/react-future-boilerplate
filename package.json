@@ -9,7 +9,8 @@
     "test": "jest",
     "test:cypress": "cypress open",
     "test:ci": "cypress run",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint": "eslint ./src --ext .tsx --ext .ts"
   },
   "dependencies": {
     "lint-staged": "^11.1.2",
@@ -26,8 +27,13 @@
     "@types/jest": "^27.0.0",
     "@types/react": "^17.0.16",
     "@types/react-dom": "^17.0.9",
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
     "cypress": "^8.3.0",
     "eslint": "^7.32.0",
+    "eslint-config-standard-with-typescript": "^20.0.0",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-react": "^7.24.0",
     "husky": "^7.0.1",
     "identity-obj-proxy": "^3.0.0",
