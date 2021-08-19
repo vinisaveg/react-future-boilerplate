@@ -8,6 +8,7 @@
     "build": "snowpack build",
     "test": "jest",
     "test:cypress": "cypress open",
+    "test:ci": "cypress run",
     "prepare": "husky install"
   },
   "dependencies": {
