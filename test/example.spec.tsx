@@ -15,7 +15,7 @@ describe('Example test', () => {
   it('Should render the App component', async () => {
     const { findByText } = render(<App />)
 
-    const app = await findByText('Hello world!')
+    const app = await findByText('Reactjs Future Boilerplate')
 
     expect(app).toBeInTheDocument()
   })
