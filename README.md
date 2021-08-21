@@ -1,4 +1,8 @@
-## react-boilerplate
+<p align="center">
+   <img src=".github/assets/logo.png"/>
+</p>
+
+# react-future-boilerplate
 
 A 2021 Reactjs boilerplate bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
 
