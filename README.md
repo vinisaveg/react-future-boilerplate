@@ -1,6 +1,6 @@
 ## react-boilerplate
 
-A 2021 Reactjs boilerplate, bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
+A 2021 Reactjs boilerplate bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
 
 ### Techs :computer:
 
@@ -70,6 +70,6 @@ A 2021 Reactjs boilerplate, bundled with Snowpack, featuring Typescript, CSS mod
 
 ```
 
-    yarn test:ci
+    yarn test:cypress:ci
 
 ```
