@@ -77,3 +77,13 @@ A 2021 Reactjs boilerplate bundled with Snowpack, featuring Typescript, CSS modu
     yarn test:cypress:ci
 
 ```
+
+### Development :gear:
+
+Configuring husky and git hooks
+
+```bash
+
+    npx husky install
+
+```
