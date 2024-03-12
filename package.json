@@ -4,12 +4,12 @@
   "description": "A 2021 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snowpack and more...",
   "main": "dist/index.js",
   "scripts": {
+    "prepare": "husky",
     "dev": "snowpack dev",
     "build": "snowpack build",
     "test": "jest",
     "test:cypress": "cypress open",
     "test:cypress:ci": "cypress run --headless",
-    "prepare": "husky install",
     "lint": "eslint ./src --ext .tsx --ext .ts"
   },
   "dependencies": {
