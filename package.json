@@ -9,7 +9,7 @@
     "build": "snowpack build",
     "test": "jest",
     "test:cypress": "cypress open",
-    "test:cypress:ci": "cypress run --headless",
+    "test:cypress:ci": "cypress run",
     "lint": "eslint ./src --ext .tsx --ext .ts"
   },
   "dependencies": {
