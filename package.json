@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
-  "description": "A 2021 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snowpack and more...",
+  "name": "react-future-boilerplate",
+  "version": "2.0.0",
+  "description": "A 2024 Reactjs boilerplate, featuring Typescript, CSS in JS, Jest, Cypress, Snowpack and more...",
   "main": "dist/index.js",
   "scripts": {
     "prepare": "husky",

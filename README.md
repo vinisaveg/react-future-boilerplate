@@ -4,7 +4,7 @@
 
 # react-future-boilerplate
 
-A 2021 Reactjs boilerplate bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
+A 2024 Reactjs boilerplate bundled with Snowpack, featuring Typescript, CSS modules, sass, Jest, Cypress, and more...
 
 ### Techs :computer:
 
